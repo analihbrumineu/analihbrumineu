@@ -20,8 +20,8 @@
     ⠀⠁⢀⠃⠀⠣⡀⠀⠀⠀⠀⣥⠀⠱ <span style="font-weight: bold"> Federal University of Santa Maria UFSM </span>
     ⠀⠀⡂⢧⡀⠐⢌⣀⠀⠀⢀⡠⢠⢀ <span>   mar 2024 - dec 2025 / Information Systems </span>
     ⠀⠀⠂⠀⠁⠀⠀⢐⠩⣏⣋⡸⠗⠊
-    ⠀⠀⠀⠀⠀⠈⠉⡆⢡⠀⠀⠀⠀⠀<span style="font-weight: bold"> Federal University of Fronteira Sul UFFS </span>
-    ⠀⠀⠀⠀⠑⠤⠔⠁⣸⠀⠀⠀⠀⠀<span>    mar 2026 - ? / Computer Science </span>
+    ⠀⠀⠀⠀⠀⠈⠉⡆⢡⠀⠀⠀⠀⠀ <span style="font-weight: bold"> Federal University of Fronteira Sul UFFS </span>
+    ⠀⠀⠀⠀⠑⠤⠔⠁⣸⠀⠀⠀⠀⠀ <span>   mar 2026 - ? / Computer Science </span>
     </pre>
   </div>
 </div>
