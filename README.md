@@ -1,16 +1,28 @@
-## Hi there 👋
+<div id="frame" style="margin: 10px; padding: 0px; border: 1px solid lightgray">
+  <div id="header">
+    <pre style="font-family: monospace; line-height: 1; letter-spacing: 0;">
+    ⠀⠀⠀⢈⣁⠆⡀⠀⠀⠀⠀⣄⠀⠀ <span style="font-weight: bold"> ⓘ 'BOUT ME .ᐟ </span>
+    ⠀⠀⠀⢳⢹⠁⠀⠱⡀⠀⠀⢈⠆⠀ <span> she / her 07 mar 2006 2enty years-old </span>
+    ⠀⠀⠀⠠⢾⣆⠀⠞⠁⠀⣠⠮⡤⡀ <span> 𖡡 xap - brazilian </span>
+    ⠀⠀⠀⠀⠐⠹⢦⡀⠀⠰⠁⡀⢰⡁ <span> PT-BR \ ENG-US </span>
+    ⠀⠀⠀⢔⠞⠛⠶⣟⣦⣀⠀⠀⠛⠀ 
+    ⠀⠀⠀⠌⣤⡴⠀⠀⠀⠉⠳⡰⡡⠄ <span> currently working on GitHub... </span>
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠹⡄⠀ <span> <a href="https://github.com/analihbrumineu/progclubuffs"> progclubuffs.py </a> </span>
+    ⠀⠀⠀⠀⠀⠀⠀⠀⡇⢄⠙⢀⢷⢁ <span> <a href="https://github.com/analihbrumineu/devwebuffs"> devwebuffs.html </a> </span>
+    ⠀⠀⠀⠀⣀⣄⡀⠀⠑⠀⠀⠊⣸⢰ <span> <a href="https://github.com/analihbrumineu/infgx9curso"> infgx9curso.cs </a> </span>
+    ⠀⠀⠀⡔⠁⠠⠗⠀⠀⠀⠀⠀⡭⠄
+    ⠀⠀⠀⢣⠀⠀⠲⣄⣀⣀⢤⡾⠁⠀<span> currently using python for competitive programming and</span>
+    ⠀⠀⠀⠀⠑⠢⠀⠀⢠⣴⣟⠍⠀⠀<span> working with genexus 9.0 and ssms at infogen systems </span>
+    ⠐⠄⠄⠤⢐⡢⣀⡼⡾⠋⠀⠀⠀⠀<span> (c# & sql). planning on deepen my knowledge of c# and </span>
+    ⠀⠀⢀⠔⣡⣞⠏⠀⠀⠀⠀⠀⠀⠀<span> sql, and plan a comeback to c++. </span>
+    ⠀⠔⢡⠞⠁⡎⠀⠔⠒⡄⠀⠀⠀⠀
+    ⡎⢰⠃⠀⠀⡗⠄⠁⣀⠆⠀⠀⠀⠀<span style="font-weight: bold"> ⓘ EDUCATION 🗒 </span>
+    ⠀⠁⢀⠃⠀⠣⡀⠀⠀⠀⠀⣥⠀⠱ <span style="font-weight: bold"> Federal University of Santa Maria UFSM </span>
+    ⠀⠀⡂⢧⡀⠐⢌⣀⠀⠀⢀⡠⢠⢀ <span>   mar 2024 - dec 2025 / Information Systems </span>
+    ⠀⠀⠂⠀⠁⠀⠀⢐⠩⣏⣋⡸⠗⠊
+    ⠀⠀⠀⠀⠀⠈⠉⡆⢡⠀⠀⠀⠀⠀<span style="font-weight: bold"> Federal University of Fronteira Sul UFFS </span>
+    ⠀⠀⠀⠀⠑⠤⠔⠁⣸⠀⠀⠀⠀⠀<span>    mar 2026 - ? / Computer Science </span>
+    </pre>
+  </div>
+</div>
 
-<!--
-**analihbrumineu/analihbrumineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
