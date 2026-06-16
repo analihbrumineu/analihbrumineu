@@ -7,9 +7,9 @@
     ⠀⠀⠀⠀⠐⠹⢦⡀⠀⠰⠁⡀⢰⡁ <span> PT-BR \ ENG-US </span>
     ⠀⠀⠀⢔⠞⠛⠶⣟⣦⣀⠀⠀⠛⠀ 
     ⠀⠀⠀⠌⣤⡴⠀⠀⠀⠉⠳⡰⡡⠄ <span> currently working on GitHub... </span>
-    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠹⡄⠀ <span> <a href="https://github.com/analihbrumineu/progclubuffs"> progclubuffs.py </a> </span>
-    ⠀⠀⠀⠀⠀⠀⠀⠀⡇⢄⠙⢀⢷⢁ <span> <a href="https://github.com/analihbrumineu/devwebuffs"> devwebuffs.html </a> </span>
-    ⠀⠀⠀⠀⣀⣄⡀⠀⠑⠀⠀⠊⣸⢰ <span> <a href="https://github.com/analihbrumineu/infgx9curso"> infgx9curso.cs </a> </span>
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠹⡄⠀ <span>    <a href="https://github.com/analihbrumineu/progclubuffs">progclubuffs.py</a> </span>
+    ⠀⠀⠀⠀⠀⠀⠀⠀⡇⢄⠙⢀⢷⢁ <span>    <a href="https://github.com/analihbrumineu/devwebuffs">devwebuffs.html</a> </span>
+    ⠀⠀⠀⠀⣀⣄⡀⠀⠑⠀⠀⠊⣸⢰ <span>    <a href="https://github.com/analihbrumineu/infgx9curso">infgx9curso.cs</a> </span>
     ⠀⠀⠀⡔⠁⠠⠗⠀⠀⠀⠀⠀⡭⠄
     ⠀⠀⠀⢣⠀⠀⠲⣄⣀⣀⢤⡾⠁⠀<span> currently using python for competitive programming and</span>
     ⠀⠀⠀⠀⠑⠢⠀⠀⢠⣴⣟⠍⠀⠀<span> working with genexus 9.0 and ssms at infogen systems </span>
