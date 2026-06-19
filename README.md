@@ -1,6 +1,6 @@
 <div id="frame" style="margin: 10px; padding: 0px; border: 1px solid lightgray">
   <div id="header">
-    <pre style="font-family: monospace; line-height: 1; letter-spacing: 0; background: transparent;">
+    <pre>
     ⠀⠀⠀⢈⣁⠆⡀⠀⠀⠀⠀⣄        <span> ⓘ 'BOUT ME .ᐟ </span>
     ⠀⠀⠀⢳⢹⠁⠀⠱⡀⠀⠀⢈⠆⠀     <span> she / her 07 mar 2006 2enty years-old </span>
     ⠀⠀⠀⠠⢾⣆⠀⠞⠁⠀⣠⠮⡤⡀     <span> 𖡡 xap - brazilian </span>
